@@ -1,4 +1,6 @@
-A simple [piku](https://github.com/rcarmo/piku) application to redirect every request.
+A simple [piku](https://github.com/rcarmo/piku) application to redirect every request from one domain to another.
+
+Useful when you have moved your `piku` app's domain.
 
 ```
 git remote add piku piku@youserver.net:redirector
