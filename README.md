@@ -12,7 +12,7 @@ NGINX_SERVER_NAME=my-old-domain.com www.my-old-domain.com
 Set the new domain in `nginx.conf`
 
 ```
-return 301 $scheme://my-new-domain.com$request_uri;
+return 302 $scheme://my-new-domain.com$request_uri;
 ```
 
 ```shell
