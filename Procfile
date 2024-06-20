@@ -1,1 +1,1 @@
-web: ./redirector.py
+static: /

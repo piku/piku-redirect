@@ -1,0 +1,2 @@
+NGINX_INCLUDE_FILE=nginx.conf
+NGINX_SERVER_NAME=my-old-domain.com www.my-old-domain.com
